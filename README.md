@@ -53,13 +53,7 @@ Each dataset includes:
 - Platform comparison  
 - Country distribution  
 - Category breakdown  
-- Outlier detection  
-
-### 4. Visualization
-- Bar charts for comparisons  
-- Heatmaps for correlations  
-- Trend analysis  
-
+    
 ---
 
 ##  Key Insights
